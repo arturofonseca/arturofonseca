@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Data Science.
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I once won a pancake-flipping contest.
