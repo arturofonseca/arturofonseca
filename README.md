@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Data Science.
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I once won a pancake-flipping contest.
+- ⚡ Fun fact: I won a pancake-flipping contest once.
+- 📫 How to reach me: [linkedin.com/in/arturo-f](https://www.linkedin.com/in/arturo-f)
