@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am THE Python master 🐍
+
 - 🌱 I’m currently learning Data Science.
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I won a pancake-flipping contest once.
