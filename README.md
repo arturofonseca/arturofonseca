@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> **Note**: most of my repositories are private due to my university's concerns about cheating and intellectual property rights.
+
 I am THE Python master 🐍
 
 - 🌱 I’m currently learning Data Science.
