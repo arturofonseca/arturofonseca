@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 > **Note**: most of my repositories are private due to my university's concerns about cheating and intellectual property rights.
+> ![](https://i.pinimg.com/236x/9b/fb/2f/9bfb2f323aac7b806b524ec2d497034e.jpg)
 
 I am THE Python master 🐍
 
