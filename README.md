@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> **Note**: most of my repositories are private due to my university's concerns about cheating and intellectual property rights.
+> **Note**: most of my repositories are private.
 > ![](https://i.pinimg.com/236x/9b/fb/2f/9bfb2f323aac7b806b524ec2d497034e.jpg)
 
 I am THE Python master 🐍
